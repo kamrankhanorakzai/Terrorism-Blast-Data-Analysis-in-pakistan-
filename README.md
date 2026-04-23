@@ -68,3 +68,4 @@ Explosive Weight (max) – Estimated max weight of explosives
 Hospital Names – Hospitals where victims were taken
 
 Temperature (C / F) – Weather conditions on the blast day
+Updated collaboration section
