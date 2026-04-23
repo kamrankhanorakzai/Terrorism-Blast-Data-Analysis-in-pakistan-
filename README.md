@@ -69,3 +69,6 @@ Hospital Names – Hospitals where victims were taken
 
 Temperature (C / F) – Weather conditions on the blast day
 Test YOLO achievement
+
+
+Updated collaboration section
